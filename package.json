@@ -2,6 +2,11 @@
   "name": "md-to-deploy",
   "displayName": "MD to Deploy",
   "description": "deploy your .md files to github pages",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JayNightmare/md-to-deploy.git"
+  },
+  "publisher": "JayNightmare",
   "version": "0.1.0",
   "engines": {
     "vscode": "^1.106.1"
