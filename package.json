@@ -7,12 +7,13 @@
     "url": "https://github.com/JayNightmare/md-to-deploy.git"
   },
   "publisher": "JayNightmare",
-  "version": "0.1.0",
+  "icon": "/src/images/MDtoDeploy.png",
+  "version": "0.1.1",
   "engines": {
     "vscode": "^1.106.1"
   },
   "categories": [
-    "Other"
+    "Visualization", "Other"
   ],
   "activationEvents": [],
   "main": "./dist/extension.js",
