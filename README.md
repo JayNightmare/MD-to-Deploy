@@ -2,6 +2,25 @@
 
 **MD to Deploy** is a VS Code extension that allows you to easily generate a static documentation site from your Markdown files. It features a "Maven-like" site structure with a sidebar navigation, customizable branding, and a live preview.
 
+## How to Use
+
+### VSCode Section
+
+1. Ensure you have Markdown files in your workspace.
+2. Open the Command Palette (`Ctrl+Shift+P` or `Cmd+Shift+P`).
+3. Run the command `MD to Deploy: Open Site Generator Panel`.
+4. Use the panel to select files, customize your site, and preview changes.
+5. Click the "Generate Site" button to create your documentation site in the `docs/` folder.
+
+<video controls src="20251210-1536-45.1215448.mp4" title="Title"></video>
+
+### Publishing to GitHub Pages
+
+1. Go to the GitHub Repo and go to `Settings` > `Pages` and set the source to the `docs/` folder to publish your site.
+2. Go back to the `Code` page and click on the Cog icon on About and enable `Use your GitHub Pages Website` to see your published site.
+
+<video controls src="20251210-1539-12.1842441.mp4" title="Title"></video>
+
 ## Features
 
 ### Site Generator Panel
