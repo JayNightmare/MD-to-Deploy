@@ -4,6 +4,10 @@ All notable changes to the "md-to-deploy" extension will be documented in this f
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [0.1.4] - 2025-12-23
+
+- **Bug Fix:** CSS was not being grabbed from the template so css was moved to a inject statement if css file can't be grabbed.
+
 ## [0.1.0] - 2025-12-10
 
 ### Added
