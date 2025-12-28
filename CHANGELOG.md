@@ -4,6 +4,10 @@ All notable changes to the "md-to-deploy" extension will be documented in this f
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [0.1.5] - 2025-12-28
+
+- **Bug Fix:** Downgraded to vscode 1.104.0 to fix compatibility issues with other IDEs like AntiGravity and Cursor.
+
 ## [0.1.4] - 2025-12-23
 
 - **Bug Fix:** CSS was not being grabbed from the template so css was moved to a inject statement if css file can't be grabbed.
